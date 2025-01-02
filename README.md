@@ -10,6 +10,9 @@ This project is a responsive product preview card that is optimized for both des
 - An "Add to Cart" button. 
 The card adapts dynamically based on the screen size using **CSS media queries** to ensure it is displayed correctly on both **desktop** (1440px width) and **mobile** (375px width) devices. This project also explores using **CSS Flexbox** for layout and **responsive images** for better performance across devices.
 
+### Links
+- Solution URL: [Url to view project solution on frontendmentor](https://www.frontendmentor.io/solutions/responsive-product-card-design-H8cjkaYW-r)
+- Live Site URL: [Url to view live site](https://motunz.github.io/Responsive-Product-Card-Design/)
 ## My Process
 1. **HTML Structure:**
 Used semantic HTML to create the card's structure, including a **div** for the main card (**#product-bg**) and separate **divs** for the image (**#product-img**) and product details (**#comb, #sentenc, etc.**).
